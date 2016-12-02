@@ -30,7 +30,7 @@ SECRET_KEY = os.getenv(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['supermarket-supermaket.44fs.preview.openshiftapps.com']
 
 
 # Application definition
